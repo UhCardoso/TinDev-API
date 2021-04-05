@@ -1,6 +1,6 @@
 # DevTinder API
 
-Projeto do Backend em NodeJS onde foi criado um app baseado nos matches do tinder, no qual os desenvolvedores podem curtit um ao outro com base nas tecnologias que eles têm conhecimento. O projeto foi desenvolvido durante a semana Omnistack7, praticando os principais conceitos de ReactJS, ReactNative e NodeJs com MongoDB. 
+Projeto do Backend em NodeJS onde foi criado um app baseado nos matches do tinder, no qual os desenvolvedores podem curtir um ao outro com base nas tecnologias que eles têm conhecimento. O projeto foi desenvolvido durante a semana Omnistack7, praticando os principais conceitos de ReactJS, ReactNative e NodeJs com MongoDB. 
 Neste projeto eu adicionei uma funcionalidade extra no qual o usuário poderá ver uma página com lista de desenvolvedores que deram match.
 ![alt text](https://thumbs2.imgbox.com/d2/6d/r9mRBzrn_t.png)
 
